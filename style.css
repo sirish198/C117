@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+   
+}
+.heading_div{
+    float: none;
+    background-color:rgb(221, 185, 221);
+    color: rgb(158, 139, 168);
+    padding:10px;
+    font-size:20px ;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    height: 40px;
+}
+.heading_div2{
+    float: none;
+    padding:10px;
+    font-size:20px ;}
